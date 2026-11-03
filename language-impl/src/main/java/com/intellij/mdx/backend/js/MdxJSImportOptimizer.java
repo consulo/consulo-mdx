@@ -19,7 +19,7 @@ import java.util.List;
  * Optimizes the imports of the JavaScript of an MDX file with the JavaScript optimizer, then puts every ESM statement
  * glued to the previous one on a line of its own (MDX needs ESM statements on separate lines).
  */
-@ExtensionImpl(order = "first")
+@ExtensionImpl
 public class MdxJSImportOptimizer implements ImportOptimizer {
   @Override
   public boolean supports(PsiFile file) {
