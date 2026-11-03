@@ -33,7 +33,8 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 @AllowLogError({
   "consulo.language.impl.internal.psi.resolve.reference.ReferenceProvidersRegistryImpl",
   "consulo.xml.impl.internal.ExternalResource",
-  "consulo.component.internal.NewExtensionPointImpl"
+  "consulo.component.internal.NewExtensionPointImpl",
+  "consulo.component.extension.ExtensionPoint"
 })
 public class MdxHighlightingTest {
   /**
