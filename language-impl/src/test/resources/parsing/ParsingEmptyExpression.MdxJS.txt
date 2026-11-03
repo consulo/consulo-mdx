@@ -1,0 +1,10 @@
+JSFile:ParsingEmptyExpression.mdx(0,32)
+  PsiElement(OUTER_MARKDOWN_CONTENT)('An empty expression ')(0,20)
+  JSEmptyStatementImpl(EMPTY_STATEMENT)(20,20)
+    <empty list>
+  JSBlockStatementImpl(BLOCK_STATEMENT)(20,22)
+    PsiElement(LBRACE)('{')(20,21)
+    PsiElement(RBRACE)('}')(21,22)
+  PsiElement(OUTER_MARKDOWN_CONTENT)(' in prose.')(22,32)
+  JSEmptyStatementImpl(EMPTY_STATEMENT)(32,32)
+    <empty list>

@@ -1,0 +1,4 @@
+JSFile:ParsingEmptyAndUnknownFence.mdx(0,40)
+  PsiElement(OUTER_MARKDOWN_CONTENT)('```\n```\n\n```unknownlang\nsome content\n```')(0,40)
+  JSEmptyStatementImpl(EMPTY_STATEMENT)(40,40)
+    <empty list>

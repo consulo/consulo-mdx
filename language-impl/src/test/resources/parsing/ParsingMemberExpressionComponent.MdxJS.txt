@@ -1,0 +1,7 @@
+JSFile:ParsingMemberExpressionComponent.mdx(0,11)
+  JSExpressionStatementImpl(EXPRESSION_STATEMENT)(0,11)
+    JSXmlLiteralExpressionImpl(XML_LITERAL_EXPRESSION)(0,11)
+      XmlToken:XML_START_TAG_START('<')(0,1)
+      XmlToken:XML_NAME('Foo.Bar')(1,8)
+      PsiWhiteSpace(' ')(8,9)
+      XmlToken:XML_EMPTY_ELEMENT_END('/>')(9,11)

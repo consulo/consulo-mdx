@@ -1,0 +1,4 @@
+JSFile:ParsingTomlFrontMatter.mdx(0,55)
+  PsiElement(OUTER_MARKDOWN_CONTENT)('+++\ntitle = "Hello MDX"\npublished = true\n+++\n\n# Heading')(0,55)
+  JSEmptyStatementImpl(EMPTY_STATEMENT)(55,55)
+    <empty list>

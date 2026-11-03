@@ -1,0 +1,4 @@
+MDX File(0,24)
+  ASTWrapperPsiElement(Markdown:MARKDOWN_FILE)(0,24)
+    ASTWrapperPsiElement(Markdown:MDX_JSX_EXPRESSION)(0,24)
+      PsiElement(Markdown:JSX_BLOCK_CONTENT)('{a < b ? <Yes/> : <No/>}')(0,24)

@@ -1,0 +1,5 @@
+MDX File(0,11)
+  ASTWrapperPsiElement(Markdown:MARKDOWN_FILE)(0,11)
+    ASTWrapperPsiElement(Markdown:MDX_JSX_FLOW_ELEMENT)(0,11)
+      ASTWrapperPsiElement(Markdown:MDX_JSX_SELF_CLOSING_ELEMENT)(0,11)
+        PsiElement(Markdown:JSX_BLOCK_CONTENT)('<Foo.Bar />')(0,11)

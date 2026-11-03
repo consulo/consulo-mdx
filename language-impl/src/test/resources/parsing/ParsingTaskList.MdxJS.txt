@@ -1,0 +1,4 @@
+JSFile:ParsingTaskList.mdx(0,39)
+  PsiElement(OUTER_MARKDOWN_CONTENT)('- [ ] unchecked task\n- [x] checked task')(0,39)
+  JSEmptyStatementImpl(EMPTY_STATEMENT)(39,39)
+    <empty list>

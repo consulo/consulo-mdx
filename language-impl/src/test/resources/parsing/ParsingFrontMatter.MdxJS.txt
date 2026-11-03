@@ -1,0 +1,4 @@
+JSFile:ParsingFrontMatter.mdx(0,95)
+  PsiElement(OUTER_MARKDOWN_CONTENT)('---\ntitle: Hello MDX\npublished: true\ntags:\n  - mdx\n  - markdown\n---\n\n# Heading\n\nSome paragraph.')(0,95)
+  JSEmptyStatementImpl(EMPTY_STATEMENT)(95,95)
+    <empty list>

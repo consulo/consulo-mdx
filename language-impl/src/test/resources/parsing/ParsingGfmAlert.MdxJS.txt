@@ -1,0 +1,4 @@
+JSFile:ParsingGfmAlert.mdx(0,54)
+  PsiElement(OUTER_MARKDOWN_CONTENT)('> [!NOTE]\n> Useful information that users should know.')(0,54)
+  JSEmptyStatementImpl(EMPTY_STATEMENT)(54,54)
+    <empty list>

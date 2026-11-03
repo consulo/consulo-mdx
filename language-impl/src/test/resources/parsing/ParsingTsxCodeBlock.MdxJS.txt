@@ -1,0 +1,4 @@
+JSFile:ParsingTsxCodeBlock.mdx(0,119)
+  PsiElement(OUTER_MARKDOWN_CONTENT)('```tsx\nexport interface AutoSuggestAddressApi {\n  getDetailsById: (id: string) => Promise<AddressDetailResponse>;\n}\n```')(0,119)
+  JSEmptyStatementImpl(EMPTY_STATEMENT)(119,119)
+    <empty list>

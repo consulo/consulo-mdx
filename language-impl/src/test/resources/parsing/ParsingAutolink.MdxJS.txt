@@ -1,0 +1,4 @@
+JSFile:ParsingAutolink.mdx(0,37)
+  PsiElement(OUTER_MARKDOWN_CONTENT)('Visit <https://example.com> for more.')(0,37)
+  JSEmptyStatementImpl(EMPTY_STATEMENT)(37,37)
+    <empty list>

@@ -1,0 +1,4 @@
+JSFile:ParsingEscapes.mdx(0,52)
+  PsiElement(OUTER_MARKDOWN_CONTENT)('Escaped \< is not a tag and \{ is not an expression.')(0,52)
+  JSEmptyStatementImpl(EMPTY_STATEMENT)(52,52)
+    <empty list>

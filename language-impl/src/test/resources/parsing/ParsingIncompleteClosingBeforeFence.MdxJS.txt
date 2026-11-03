@@ -1,0 +1,25 @@
+JSFile:ParsingIncompleteClosingBeforeFence.mdx(0,37)
+  JSExpressionStatementImpl(EXPRESSION_STATEMENT)(0,37)
+    JSXmlLiteralExpressionImpl(XML_LITERAL_EXPRESSION)(0,37)
+      XmlToken:XML_START_TAG_START('<')(0,1)
+      XmlToken:XML_NAME('div')(1,4)
+      XmlToken:XML_TAG_END('>')(4,5)
+      XmlToken:XML_END_TAG_START('</')(5,7)
+      XmlToken:XML_NAME('div')(7,10)
+      PsiErrorElement:[consulo.xml.XmlErrorLocalize@xml.parsing.unexpected.token](10,10)
+        <empty list>
+      PsiWhiteSpace('\n')(10,11)
+      PsiErrorElement:[consulo.xml.XmlErrorLocalize@xml.parsing.unexpected.token](11,11)
+        <empty list>
+      PsiElement(OUTER_MARKDOWN_CONTENT)('    ```tsx\n\n    ```')(11,30)
+      PsiErrorElement:[consulo.xml.XmlErrorLocalize@xml.parsing.unexpected.token](30,30)
+        <empty list>
+      PsiWhiteSpace('\n')(30,31)
+      PsiElement(BAD_CHARACTER)('<')(31,32)
+      PsiErrorElement:[consulo.xml.XmlErrorLocalize@xml.parsing.unexpected.token](32,32)
+        <empty list>
+      PsiElement(BAD_CHARACTER)('/')(32,33)
+      PsiErrorElement:[consulo.xml.XmlErrorLocalize@xml.parsing.unexpected.token](33,33)
+        <empty list>
+      XmlToken:XML_NAME('div')(33,36)
+      XmlToken:XML_TAG_END('>')(36,37)
